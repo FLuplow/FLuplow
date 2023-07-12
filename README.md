@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLuplow&hide_border=true&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FLuplow&hide_border=true&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FLuplow&langs_count=3&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
